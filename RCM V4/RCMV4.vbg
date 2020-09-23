@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=RCM Dll\RCMSC.vbp
+StartupProject=RCM Test\RCMTH.vbp

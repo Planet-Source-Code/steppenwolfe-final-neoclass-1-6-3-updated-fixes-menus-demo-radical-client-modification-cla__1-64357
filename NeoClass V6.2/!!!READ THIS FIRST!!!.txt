@@ -1,0 +1,8 @@
+V6.2
+Hey all.. 
+Last Version, everything is fixed, and working well, enjoy..
+Original neocaption, (the inspiration for this class), can befound here: http://www.vbaccelerator.com/home/VB/Code/Controls/Skins/article.asp if you want to compare, and of course a big thanks to Steve McMahon, for his tremendous generosity of spirit, and gifts of knowledge and inspiration..
+
+Anyways,
+Have fun..
+John
